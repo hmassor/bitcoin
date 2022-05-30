@@ -1,0 +1,21 @@
+{
+    "name": "trade-application",
+    "version": "1.0.0",
+    "description": "Vegi-Network Trade application implemented in JavaScript",
+    "engines": {
+        "node": ">=12",
+        "npm": ">=5"
+    },
+    "engineStrict": true,
+    "author": "Team Europa",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "expres": "0.0.5",
+        "express": "^4.17.1",
+        "fabric-ca-client": "^2.2.0",
+        "fabric-network": "^2.2.0"
+    },
+    "devDependencies": {
+        "node-geocoder": "^3.27.0"
+    }
+}
